@@ -1,6 +1,9 @@
 # CRUD Operations Using DotNet 8.0 SDK
 - Dotnet 8.0 | ASP.NET MVC Full Stack Development
 
+- 🚀 https://youtu.be/6QlQ1gIpfZI
+
+
 - Welcome to the dynamic world of Dotnet 8.0 and ASP.NET MVC Full Stack Development! In the ever-evolving landscape of technology, staying ahead of the curve is essential, and this course is designed to equip you with the skills and knowledge needed to master the art of Full Stack Development using the powerful Dotnet 8.0 framework and ASP.NET MVC.
 
 - Dotnet 8.0, with its robust set of features and improvements, provides a solid foundation for developing scalable and high-performance applications. Combined with the versatility of ASP.NET MVC (Model-View-Controller), this stack empowers developers to create dynamic and responsive web applications with ease.
